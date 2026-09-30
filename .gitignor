@@ -1,0 +1,8 @@
+# Güvenlik 
+db.properties
+# Derleme ve IDE Çöp Dosyaları
+bin/
+*.class
+.project
+.classpath
+.settings/
