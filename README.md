@@ -12,12 +12,13 @@ A desktop application built with Java Swing and MySQL featuring user authenticat
 
 <img width="537" height="360" alt="image" src="https://github.com/user-attachments/assets/70ea8221-541b-4b94-9d99-7603b7573248" />
 
-The main can be designed however you wish.
+The mainpage can be designed however you wish.
 
 
 3. Admin Panel
 
-Preview unavailable
+<img width="792" height="388" alt="image" src="https://github.com/user-attachments/assets/7cabc2c9-449d-425f-a7cd-30dd7b3e2586" />
+
 
 ✨ Features
 Authentication: Secure login validated against a MySQL database.
