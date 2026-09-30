@@ -29,14 +29,19 @@ CRUD Operations: Create, list, update, and delete users.
 Search by ID: Filter users dynamically by ID.
 Safe Deletion: Confirmation dialogs to prevent accidental user deletion.
 Password Masking: Hide/show password toggle for better security and UX.
+
+
 🛠️ Tech Stack
 Language: Java (JDK 17+)
 GUI Framework: Java Swing
 Database: MySQL
 Database Connector: JDBC (MySQL Connector/J)
+
+
 🔑 Demo Accounts
 Admin Account: Username: admin | Password: 1234
 Normal Account: Username: ahmet | Password: 1234
-👨‍💻 Author
 
+
+👨‍💻 Author
 Oğulcan - Computer Engineering Student
