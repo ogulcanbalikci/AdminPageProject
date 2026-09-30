@@ -10,7 +10,10 @@ A desktop application built with Java Swing and MySQL featuring user authenticat
 
 2. Main Page
 
-Preview unavailable
+<img width="537" height="360" alt="image" src="https://github.com/user-attachments/assets/70ea8221-541b-4b94-9d99-7603b7573248" />
+
+The main can be designed however you wish.
+
 
 3. Admin Panel
 
