@@ -5,7 +5,8 @@ A desktop application built with Java Swing and MySQL featuring user authenticat
 📸 Screenshots
 1. Login Page
 
-Preview unavailable
+<img width="308" height="273" alt="image" src="https://github.com/user-attachments/assets/4712e771-7f18-4ee5-bd64-388fb6b674bb" />
+
 
 2. Main Page
 
