@@ -38,8 +38,8 @@ Database: MySQL
 Database Connector: JDBC (MySQL Connector/J)
 
 
-🔑 Demo Accounts
-Admin Account: Username: admin | Password: 1234
+🔑 Demo Accounts-
+Admin Account: Username: admin | Password: 1234 -
 Normal Account: Username: ahmet | Password: 1234
 
 
